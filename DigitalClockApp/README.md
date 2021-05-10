@@ -50,7 +50,7 @@ Again, you want to use some SASS to customize the design and make your JavaScrip
 6. License
    Copyright protected
 7. Contact
-   [**Iulian Stan**](iulianstangithub@gmail.com)
+   [**Iulian Stan**](https://github.com/iulianSta)
 8. Acknowledgement
 
 ### I want to thank to my Mentors:
