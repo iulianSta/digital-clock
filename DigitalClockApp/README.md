@@ -11,6 +11,7 @@ Again, you want to use some SASS to customize the design and make your JavaScrip
 ## Table of Contents
 
 1. About The Project
+   **Digital clock app project**
 
 - Built With
   - HTML;
@@ -22,11 +23,38 @@ Again, you want to use some SASS to customize the design and make your JavaScrip
 2. Getting Started
 
 - Prerequisites
+  - vsCode;
+  - node modules;
+  - package JSON.
 - Installation
+  - development tools:
+    - node modules;
+    - package.json;
+    - package-lock.json;
+    - gh-pages;
+    - sass;
+    - live-server.
 
 3. Usage
+
+- HTML;
+- SCSS;
+- JavaScript;
+- Google fonts.
+
 4. Roadmap
 5. Contributing
+
+### Iulian Stan
+
 6. License
+   Copyright protected
 7. Contact
+   [**Iulian Stan**](iulianstangithub@gmail.com)
 8. Acknowledgement
+
+### I want to thank to my Mentors:
+
+- Hadi Nsreeny;
+- Tareq Almasri.
+  **for the amazing coding skills that they teached me.**
