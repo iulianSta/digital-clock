@@ -18,7 +18,7 @@ const timeDisplay = () => {
   m = m < 10 ? `0${m}` : m;
   s = s < 10 ? `0${s}` : s;
   let time = `${h}:${m}:${s} ${session}`;
-  clock.innerHTML += time;
+  clock.innerHTML = time;
+  setTimeout(timeDisplay, 1000);
 };
-
-console.log(timeDisplay());
+timeDisplay();
