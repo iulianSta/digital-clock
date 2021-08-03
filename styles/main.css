@@ -1,4 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+.clock {
+  font-family: "Orbitron", tahoma, sans-serif;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #17d4fe;
+  letter-spacing: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  .clock {
+    font-size: 3rem;
+  }
+}
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -186,14 +199,6 @@ body {
   justify-content: center;
   align-items: center;
   background-color: black;
-}
-
-.clock {
-  font-family: "Orbitron", tahoma, sans-serif;
-  font-size: 2rem;
-  font-weight: bold;
-  color: #17d4fe;
-  letter-spacing: 5px;
 }
 
 /*# sourceMappingURL=main.css.map */

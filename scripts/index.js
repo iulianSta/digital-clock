@@ -2,7 +2,7 @@
 // timeDisplay function
 const timeDisplay = () => {
   // Select element
-  let clock = document.querySelector("#MyClockDisplay");
+  let clock = document.querySelector("#myClockDisplay");
   // Variables
   let date = new Date();
   let h = date.getHours();
