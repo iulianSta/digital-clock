@@ -45,6 +45,7 @@ I have used some SASS to customize the design and make my JavaScript clock look 
 ### 4. Roadmap
 
 Project\
+
 │   README.md\
 │   .gitignore\
 │   package.json\
@@ -60,7 +61,7 @@ Project\
 │   |   └───index.js\
 |   └───img\
 |   └───fonts\
-└───dist\
+└───dist
 
 
 ### 5. Contributing
