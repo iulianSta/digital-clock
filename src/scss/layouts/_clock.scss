@@ -1,8 +1,15 @@
 // Clock styling
 .clock {
   font-family: $my-font;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: bold;
   color: $my-color;
   letter-spacing: 5px;
+}
+
+// Tablet's Ipad's Desktop and Large screens view
+@media only screen and (min-width: 768px) {
+  .clock {
+    font-size: 3rem;
+  }
 }
