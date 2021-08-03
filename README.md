@@ -1,16 +1,16 @@
-### 2: JAVASCRIPT CLOCK
+### JAVASCRIPT DIGITAL CLOCK
 
 ![JavaScript digital clock project](./src/images/image/JavaScript-clock-project.png)
 
-Building your own digital clock with JavaScript is a relatively easy small project to practice variables and simple if loops.
+Building my own digital clock with JavaScript is a relatively easy small project to practice variables and simple if loops.
 
-Again, you want to use some SASS to customize the design and make your JavaScript clock look fancy.
+I have used some SASS to customize the design and make my JavaScript clock look fancy.
 
 # Digital Clock App
 
 ## Table of Contents
 
-1. About The Project
+### 1. About The Project
    **Digital clock app project**
 
 - Built With
@@ -20,7 +20,7 @@ Again, you want to use some SASS to customize the design and make your JavaScrip
   - gh-pages;
   - npm live-server.
 
-2. Getting Started
+### 2. Getting Started
 
 - Prerequisites
   - vsCode;
@@ -35,26 +35,22 @@ Again, you want to use some SASS to customize the design and make your JavaScrip
     - sass;
     - live-server.
 
-3. Usage
+### 3. Usage
 
 - HTML;
 - SCSS;
 - JavaScript;
 - Google fonts.
 
-4. Roadmap
-5. Contributing
+### 4. Roadmap
+### 5. Contributing
 
-### Iulian Stan
+## Iulian Stan
 
-6. License
+### 6. License
    Copyright protected
-7. Contact
+### 7. Contact
    [**Iulian Stan**](https://github.com/iulianSta)
-8. Acknowledgement
+### 8. Acknowledgement
 
-### I want to thank to my Mentors:
-
-- Hadi Nsreeny;
-- Tareq Almasri.
-  **for the amazing coding skills that they teached me.**
+### I want to thank to the [**DCI**](https://www.digitalcareerinstitute.org) team and teachers!
