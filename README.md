@@ -43,12 +43,32 @@ I have used some SASS to customize the design and make my JavaScript clock look 
 - Google fonts.
 
 ### 4. Roadmap
+
+Project
+│   README.md
+│   .gitignore
+│   package.json
+|   package-lock.json
+└───src
+│   │   index.html
+│   └───styles
+|   └───scss
+|   |   |  _var.scss
+|   |   |  _header.scss
+|   |   └───main.scss
+│   └───scripts
+│   |   └───index.js
+|   └───img
+|   └───fonts
+└───dist
+
+
 ### 5. Contributing
 
 ## Iulian Stan
 
 ### 6. License
-   Copyright protected
+   - Copyright protected
 ### 7. Contact
    [**Iulian Stan**](https://github.com/iulianSta)
 ### 8. Acknowledgement
