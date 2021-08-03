@@ -10,7 +10,7 @@ I have used some SASS to customize the design and make my JavaScript clock look 
 
 ## Table of Contents
 
-### 1. About The Project
+### About The Project
    **Digital clock app project**
 
 - Built With
@@ -20,7 +20,7 @@ I have used some SASS to customize the design and make my JavaScript clock look 
   - gh-pages;
   - npm live-server.
 
-### 2. Getting Started
+### Getting Started
 
 - Prerequisites
   - vsCode;
@@ -35,43 +35,22 @@ I have used some SASS to customize the design and make my JavaScript clock look 
     - sass;
     - live-server.
 
-### 3. Usage
+### Usage
 
 - HTML;
 - SCSS;
 - JavaScript;
 - Google fonts.
 
-### 4. Roadmap
 
-Project\
-
-│   README.md\
-│   .gitignore\
-│   package.json\
-|   package-lock.json\
-└───src\
-│   │   index.html\
-│   └───styles\
-|   └───scss\
-|   |   |  _var.scss\
-|   |   |  _header.scss\
-|   |   └───main.scss\
-│   └───scripts\
-│   |   └───index.js\
-|   └───img\
-|   └───fonts\
-└───dist
-
-
-### 5. Contributing
+### Contributing
 
 ## Iulian Stan
 
-### 6. License
+### License
    - Copyright protected
-### 7. Contact
+### Contact
    [**Iulian Stan**](https://github.com/iulianSta)
-### 8. Acknowledgement
+### Acknowledgement
 
 ### I want to thank to the [**DCI**](https://www.digitalcareerinstitute.org) team and teachers!
