@@ -44,23 +44,23 @@ I have used some SASS to customize the design and make my JavaScript clock look 
 
 ### 4. Roadmap
 
-Project
-│   README.md
-│   .gitignore
-│   package.json
-|   package-lock.json
-└───src
-│   │   index.html
-│   └───styles
-|   └───scss
-|   |   |  _var.scss
-|   |   |  _header.scss
-|   |   └───main.scss
-│   └───scripts
-│   |   └───index.js
-|   └───img
-|   └───fonts
-└───dist
+Project\
+│   README.md\
+│   .gitignore\
+│   package.json\
+|   package-lock.json\
+└───src\
+│   │   index.html\
+│   └───styles\
+|   └───scss\
+|   |   |  _var.scss\
+|   |   |  _header.scss\
+|   |   └───main.scss\
+│   └───scripts\
+│   |   └───index.js\
+|   └───img\
+|   └───fonts\
+└───dist\
 
 
 ### 5. Contributing
